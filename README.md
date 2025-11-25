@@ -44,5 +44,16 @@
 🠶 DM me on Twitter (@rgjny_) or Instagram — serious collaborators only 🚀
 
 <br>
-📊 GitHub Stats
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rgjny&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgjny&layout=compact&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rgjny&theme=tokyonight&hide_border=true"/> </p> <br> <p align="center"> <b>“Hack to learn. Don’t learn to hack.”</b><br> <i>Always improving. Always exploring. Always breaking limits.</i> </p>
+
+<h3>📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rgjny&theme=cobalt&hide_border=false"/>
+</p>
+
+<br>
+
+<p align="center">
+  <b>“Hack to learn. Don’t learn to hack.”</b><br>
+  <i>Always improving. Always exploring. Always breaking limits.</i>
+</p>
