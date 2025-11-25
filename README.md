@@ -1,27 +1,19 @@
-<h1 align="center">Hi 👋, I'm Harshit (rgjny)</h1>
-<h3 align="center">Bug Bounty Hunter • API Security Researcher • Automation Developer • Pentester</h3>
+<h1 align="center">Hi 👋, I'm Harshit (rgjny)</h1> <h3 align="center">Class 12 Student • Bug Bounty Hunter • API & WEB Security Researcher</h3> <p align="center"> <i>Focused on building practical offensive-security tools and leveling up every single day ⚡</i> </p> <p align="center"></p> <p align="center"> <a href="https://x.com/rgjny_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="mailto:rgjny@wearehackerone.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://instagram.com/rgjny"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> </p> <div align="center">
 
-<p align="center">
-  <a href="https://x.com/rgjny_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:rgjny@wearehackerone.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/rgjny"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
-</p>
+ 🢣🔭 Currently: Actively hunting on HackerOne & private programs
+ 
+ 🢣🌱 Skilled in: Advanced API exploitation, Broken Access Control, logic bypasses, mass-account info leaks, information disclosure, privilege escalation, IDOR, broken authentication, and more
+ 
+ 🢣💡 Deeply interested in: Business-logic flaws, rate-limit bypasses, IDOR chaining, OAuth misconfigurations
+ 
+ 🢣👨‍💻 All my tools & scripts → <a href="https://github.com/rgjny">github.com/rgjny</a> soo more to release ...
+ 
+ 🢣💬 Ping me for → API abuse, automation, Burp Suite, auth issues, fuzzing, or logic bugs
+ 
+ 🢣⚡ Fun fact → I love turning small bugs into full exploit chains
 
-<div align="center">
-
-🔭 **Currently hunting bugs** and building advanced automation tools for reconnaissance & API testing  
-🌱 **Learning** Advanced Web Pentesting, Race Condition Exploitation, OSINT Automation & Java (Class 12 CBSE)  
-💡 **Research Focus** → API Abuse, Business Logic Flaws, Rate Limit Bypasses, Automation Pipelines  
-👨‍💻 All my projects → <a href="https://github.com/rgjny">github.com/rgjny</a>  
-💬 Ask me about → API Security, Logic Bugs, Recon Automation, Burp Suite Tricks, Bug Bounty Methodology  
-⚡ Fun fact → I can make my terminal look straight out of Mr. Robot… and it actually works
-
-</div>
-
-<br>
-
-### 🛠️ Tech Stack & Tools
-
+</div> <br>
+🛠️ Weapons of Choice (Tech & Tools I Live In)
 <p align="center">
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>
   <a href="https://go.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="50" height="50"/></a>
@@ -32,30 +24,25 @@
   <a href="https://www.kali.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="kali" width="50" height="50"/></a>
   <a href="https://portswigger.net/burp" target="_blank"><img src="https://avatars.githubusercontent.com/u/3907989?s=200&v=4" alt="burp suite" width="50" height="50"/></a>
   <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/></a>
-</p>
+</p> <br>
+🔥 Active Projects & Custom Tools I'm Building
+
+➫ End-to-end recon pipeline (Subdomains → APIs → Params → Attack surface)
+➫ OSINT-Master: Automated OSINT collector for emails, numbers, leaked credentials, Vehicle number etc
+➫ Custom tools for chain exploitations  
+➫ Ongoing automation tools for recon, API enumeration & workflow exploitation
+
+💃All tools will be open-source soon...
 
 <br>
+👥 Looking to Collaborate?
 
-### 🔥 Currently Working On
-- High-performance recon automation pipelines (Subdomains → APIs → Parameters → Attack Surface)
-- Custom tools for detecting race conditions, IDORs, and payment logic flaws
-- Open-source contributors welcome! DM me if you build in Go/Python/Bash
+⮩Building recon / OSINT automation
+⮩API-security research
+⮩Cybersecurity & bug-hunting collabs
 
-<br>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rgjny&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgjny&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rgjny&theme=tokyonight" alt="streak stats"/>
-</p>
+🠶 DM me on Twitter (@rgjny_) or Instagram — serious collaborators only 🚀
 
 <br>
-
-<h3 align="center">Class 12 student by day ⚡ Ethical hacker by night</h3>
-<p align="center"><i>Balancing boards + bugs, Java textbooks + Java deserialization exploits</i></p>
-<p align="center">Building the future of offensive security — one script at a time.</p>
+📊 GitHub Stats
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rgjny&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgjny&layout=compact&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rgjny&theme=tokyonight&hide_border=true"/> </p> <br> <p align="center"> <b>“Hack to learn. Don’t learn to hack.”</b><br> <i>Always improving. Always exploring. Always breaking limits.</i> </p>
