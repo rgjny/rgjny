@@ -1,19 +1,19 @@
 <div align="center">
-
-<h1 align="center">Hi 👋, I'm Harshit (rgjny)</h1>
-🧑‍💻 Class 12 Student • Bug Bounty Hunter • API & WEB Security Researcher
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=FF4500&vCenter=true&width=550&lines=Student+•+Bug+Bounty+Hunter+•+API+%26+WEB+Security+Researcher;Leveling+up+every+single+day+⚡" alt="Typing Animation"/>
-</p>
-
----
-
 <p align="center">
     <a href="https://x.com/rgjny_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
     <a href="mailto:rgjny@wearehackerone.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
     <a href="https://t.me/rgjnyclient"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
 </p>
+
+<h1 align="center">Hi 👋, I'm Harshit (aka rgjny)</h1>
+
+<p align="center">
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Comic+Relief&size=30&pause=1000&color=F7F7F7&vCenter=true&width=950&lines=Student+•+Bug+Bounty+Hunter+•+API+%26+WEB+Security+Researcher;Ethical+Hacker" alt="Animation"/>
+</p>
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="gif"/>
+</p>
+---
 
 </div>
 
@@ -31,14 +31,14 @@
 
 ---
 
-## ⚙️ Weapons of Choice (Tech & Tools)
+## ⚙️ Tech & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,js,bash" alt="Programming Languages" />
-  &nbsp; &nbsp; &nbsp;
-  <img src="https://skillicons.dev/icons?i=linux,kali,burp,postman" alt="OS and Tools" />
+  <img src="https://skillicons.dev/icons?i=python,go,js,bash" alt="Programming Languages" />
+  &nbsp; &nbsp; &nbsp;
+  <img src="https://skillicons.dev/icons?i=linux,kali,arch,postman" alt="OS and Tools" />
+  <img src="https://images.softwaresuggest.com/software_logo/burpsuite-20231229161748.png" alt="burp" style="height:48px; width:48px;" />
 </p>
-
 ---
 
 ## 🔥 Active Projects & Custom Tools
@@ -66,7 +66,7 @@ I am open to working with serious researchers on:
 
 ---
 
-### 📊 Animated GitHub Statistics
+### 📊 GitHub Statistics
 
 <div align="center">
     <img src="https://nirzak-streak-stats.vercel.app/?user=rgjny&theme=dark&hide_border=true" alt="GitHub Streak"/>
