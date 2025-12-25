@@ -11,7 +11,8 @@
    <img src="https://readme-typing-svg.herokuapp.com/?font=Comic+Relief&size=30&pause=1000&color=F7F7F7&vCenter=true&width=950&lines=Student+•+Bug+Bounty+Hunter+•+API+%26+WEB+Security+Researcher;Ethical+Hacker" alt="Animation"/>
 </p>
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="gif"/>
+   <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c219ea3f-0293-461d-9ae3-ad6f9ea1e6a4" />
+
 </p>
 ---
 
@@ -61,7 +62,8 @@ I am open to working with serious researchers on:
 * Building advanced recon / OSINT automation platforms.
 * Deep-dive API-security research projects.
 * Competitive cybersecurity & bug-hunting collabs.
-
+* 
+---
 ### Get in touch
 
 <div align="left">
@@ -86,9 +88,11 @@ I am open to working with serious researchers on:
 
 ### 📊 GitHub Statistics
 
+<p align="center">
 <div align="center">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=rgjny&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</div>
+ <a href="https://github.com/rgjny"> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rgjny&theme=algolia" width="100%" /> </br></br>
+ 
 
 ---
 
