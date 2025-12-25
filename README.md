@@ -62,7 +62,25 @@ I am open to working with serious researchers on:
 * Deep-dive API-security research projects.
 * Competitive cybersecurity & bug-hunting collabs.
 
-> **DM me on Twitter (@rgjny_) or Telegram (@rgjnyclient) for serious proposals only**
+### Get in touch
+
+<div align="left">
+  <a href="https://x.com/rgjny_" target="_blank">
+<img width="32" height="40" alt="image" src="https://github.com/user-attachments/assets/1e70b160-202a-47f2-beaf-9e633b3790f7" />
+  </a>
+⠀
+⠀
+  <a href="https://t.me/rgjnyclient" target="_blank">
+<img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/cbb5f2f8-6e7c-46bf-adb5-49e8220c5f24" />
+  </a>
+⠀
+⠀
+  <a href="mailto:rgjny@wearehackerone.com" target="_blank">
+<img width="87" height="28" alt="image" src="https://github.com/user-attachments/assets/682f1cf2-6997-425b-98b5-e9a2d9a10a71" />
+
+  </a>
+    
+</div>
 
 ---
 
