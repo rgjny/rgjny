@@ -19,19 +19,19 @@
 
 ---
 
-## 🔬 Offensive Security Expertise
+## Offensive Security Expertise
 
 | Category | Details |
 | :--- | :--- |
-| **🎯 Currently Hunting** | Actively focused on **HackerOne** and high-severity, private programs. |
-| **🛠️ Core Skills** | Advanced **API exploitation**, Broken Access Control, Logic Bypasses, Mass Info Leaks, Privilege Escalation, and IDOR. |
-| **💡 Deep Interest** | **Business-logic flaws**, Rate-limit bypasses, IDOR chaining, and OAuth misconfigurations. |
-| **📧 Connect For** | API abuse, automation, Burp Suite tips, auth issues, fuzzing, or complex logic bugs. |
-| **✨ Fun Fact** | I thrive on chaining small, innocent bugs into powerful, full exploit chains! |
+| **Currently Hunting** | Actively focused on **HackerOne** and high-severity, private programs. |
+| **Core Skills** | Advanced **API exploitation**, Broken Access Control, Logic Bypasses, Mass Info Leaks, Privilege Escalation, and IDOR. |
+| **Deep Interest** | **Business-logic flaws**, Rate-limit bypasses, IDOR chaining, and OAuth misconfigurations. |
+| **Connect For** | API abuse, automation, Burp Suite tips, auth issues, fuzzing, or complex logic bugs. |
+| **Fun Fact** | I thrive on chaining small, innocent bugs into powerful, full exploit chains! |
 
 ---
 
-## ⚙️ Tech & Tools
+## Tech & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,go,js,bash" alt="Programming Languages" />
@@ -41,14 +41,14 @@
 </p>
 ---
 
-## 🔥 Active Projects & Custom Tools
+##  Active Projects & Custom Tools
 
 These tools are designed to streamline the offensive security workflow.
 
 * **⚡ Automated Recon Pipeline:** End-to-end flow from Subdomains → APIs → Parameters → Attack surface mapping.
-* **🕵️ OSINT-Master:** A powerful collector for deep OSINT data (emails, numbers, leaked credentials, etc.).
-* **🔗 Chain Exploitation Scripts:** Custom automation for building and executing multi-step exploit chains rapidly.
-* **💻 Workflow Automation:** Ongoing scripts for API enumeration and vulnerability detection.
+* **OSINT-Master:** A powerful collector for deep OSINT data (emails, numbers, leaked credentials, etc.).
+* **Chain Exploitation Scripts:** Custom automation for building and executing multi-step exploit chains rapidly.
+* **Workflow Automation:** Ongoing scripts for API enumeration and vulnerability detection.
 
 > 🌐 All tools will be open-source soon. Check them out: [github.com/rgjny](https://github.com/rgjny)
 
@@ -62,7 +62,7 @@ I am open to working with serious researchers on:
 * Deep-dive API-security research projects.
 * Competitive cybersecurity & bug-hunting collabs.
 
-> **DM me on Twitter (@rgjny_) or Telegram (@rgjnyclient) for serious proposals only 🚀**
+> **DM me on Twitter (@rgjny_) or Telegram (@rgjnyclient) for serious proposals only**
 
 ---
 
