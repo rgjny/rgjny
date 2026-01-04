@@ -77,7 +77,7 @@ I am open to working with serious researchers on:
   </a>
 ⠀
 ⠀
-  <a href="mailto:rgjny@wearehackerone.com" target="_blank">
+  <a href="mailto:rgjny+contact@wearehackerone.com" target="_blank">
 <img width="87" height="28" alt="image" src="https://github.com/user-attachments/assets/682f1cf2-6997-425b-98b5-e9a2d9a10a71" />
 
   </a>
