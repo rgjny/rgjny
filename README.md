@@ -1,7 +1,7 @@
 <div align="center">
 <p align="center">
     <a href="https://x.com/rgjny_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
-    <a href="mailto:rgjny@wearehackerone.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:rgjny+contact@wearehackerone.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
     <a href="https://t.me/rgjnyclient"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
 </p>
 
