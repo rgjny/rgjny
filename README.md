@@ -1,7 +1,7 @@
 <div align="center">
 <p align="center">
     <a href="https://x.com/rgjny_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
-    <a href="mailto:rgjny+contact@wearehackerone.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:rgjnymail@proton.me"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
     <a href="https://t.me/rgjnyclient"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
 </p>
 
@@ -77,7 +77,7 @@ I am open to working with serious researchers on:
   </a>
 ⠀
 ⠀
-  <a href="mailto:rgjny+contact@wearehackerone.com" target="_blank">
+  <a href="mailto:rgjnymail@proton.me" target="_blank">
 <img width="87" height="28" alt="image" src="https://github.com/user-attachments/assets/682f1cf2-6997-425b-98b5-e9a2d9a10a71" />
 
   </a>
