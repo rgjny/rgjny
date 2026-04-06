@@ -1,7 +1,9 @@
-<h1 align="center">hey, i'm harshit — rgjny 👋</h1>
+<div align="center">
+
+<h1>hey, i'm harshit — rgjny 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Comic+Relief&size=30&pause=1000&color=F7F7F7&vCenter=true&width=950&lines=student+%E2%80%A2+bug+bounty+hunter+%E2%80%A2+api+%26+web+security;just+here+to+break+things" alt="Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Comic+Relief&size=24&pause=1000&color=F7F7F7&vCenter=true&width=950&lines=student+%E2%80%A2+bug+bounty+hunter+%E2%80%A2+api+%26+web+security;just+here+to+break+things" alt="Animation" />
 </p>
 
 <p align="center">
@@ -12,65 +14,42 @@
 
 ---
 
-## what i hunt
+bug bounty hunter on HackerOne. i focus on api exploitation, broken access control, idor chaining, oauth misconfigs, and business logic flaws. i like taking small bugs and chaining them into something that actually matters.
 
-| | |
-| :--- | :--- |
-| **hunting on** | HackerOne — private programs, high severity only |
-| **main stuff** | API exploitation, broken access control, IDOR, privilege escalation, info leaks |
-| **obsessed with** | business logic bugs, oauth misconfigs, 2fa bypass, chaining vulns |
-| **talk to me about** | API abuse, auth bypasses, fuzzing, burp tips, logic bugs |
-| **real talk** | i turn 3 low-severity bugs into 1 critical. that's the whole game |
+writing about it at **[rgjny.me](https://rgjny.me)**
 
 ---
 
-## tech & tools
+## latest writeup
+
+> **[Email-Based User Enumeration](https://rgjny.me/posts/email-based-user-enumeration)** — privacy bug in a private program. how a simple email field leaked user existence. [read →](https://rgjny.me/posts/email-based-user-enumeration)
+
+---
+
+## tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,js,bash" alt="Languages" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,kali,arch,postman" alt="OS and Tools" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,vscode,docker" alt="Dev Tools" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Other" />
+  <img src="https://skillicons.dev/icons?i=python,go,bash,linux,kali,postman,github,vscode,docker,mysql" />
   <img src="https://images.softwaresuggest.com/software_logo/burpsuite-20231229161748.png" alt="burp" style="height:48px; width:48px;" />
 </p>
 
 ---
 
-## stuff i'm building
+## building
 
-side projects that actually get used during hunts.
+- **recon pipeline** — subdomains → apis → params → attack surface
+- **osint-master** — emails, numbers, leaked creds (private for now)
+- **chain scripts** — multi-step exploit automation
 
-- **⚡ recon pipeline** — subdomains → apis → parameters → attack surface, all automated
-- **osint-master** — digs up emails, numbers, leaked creds, goes deeper than most tools (private for now)
-- **chain scripts** — built for chaining multi-step exploits without doing it manually every time
-- **api enum** — always being updated, never finished
-
-> going open-source soon → [github.com/rgjny](https://github.com/rgjny)
-
----
-
-## wanna collab?
-
-reach out if you're working on:
-
-- recon or osint tools
-- api security research
-- serious bug hunting — not beginner stuff
+> open-source soon → [github.com/rgjny](https://github.com/rgjny)
 
 ---
 
 ## get in touch
 
 <p align="center">
+  <a href="https://rgjny.me" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=ghost&logoColor=white" /></a>
+  &nbsp;
   <a href="https://x.com/rgjny_" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   &nbsp;
   <a href="https://t.me/rgjnyclient" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
@@ -85,7 +64,8 @@ reach out if you're working on:
 ## github stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rgjny&theme=algolia&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rgjny&theme=algolia&hide_border=true" width="55%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rgjny&theme=algolia" width="38%" />
 </p>
 
 <p align="center">
@@ -94,7 +74,4 @@ reach out if you're working on:
 
 ---
 
-<p align="center">
-  <i>hack to learn. don't learn to hack.</i><br>
-  <i>addicted to hacking</i>
-</p>
+<p align="center"><i>hack to learn. don't learn to hack.</i></p>
