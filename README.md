@@ -1,77 +1,67 @@
-<div align="center">
+<p align="center">
 
-<h1>hey, i'm harshit — rgjny 👋</h1>
+
+<table>
+<tr>
+<td valign="top" width="280">
+
+<img src="assets/banner.gif" width="260">
+
+</td>
+<td valign="top">
+
+```properties
+╭─ rgjny@github ──────────────────────────────────────────────────────────────────╮
+│                                                                                 │
+│  profile   security + infra | dev tools , ctf , open source                     │
+│  blog      https://rgjny.me                                                     │
+│  strength  Python + Go tooling, bash automation, recon & exploit dev            │
+│  stack     burp suite, metasploit, docker, linux, kali                          │
+│  workflow  clean commits, reproducible builds, fast turnaround                  │                                                  │
+│                                                                                 │
+╰─────────────────────────────────────────────────────────────────────────────────╯
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📝 writeups & blog
+
+- **[rgjny.me](https://rgjny.me)** — writeups, tools, and notes
+
+---
+
+### 🛠️ tech stack
+
+![Python](https://img.shields.io/badge/python-1e1e2e?style=for-the-badge&logo=python&logoColor=f9e2af)
+![Go](https://img.shields.io/badge/go-1e1e2e.svg?style=for-the-badge&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-1e1e2e?style=for-the-badge&logo=gnu-bash&logoColor=a6e3a1)
+![Docker](https://img.shields.io/badge/docker-1e1e2e?style=for-the-badge&logo=docker&logoColor=74c7ec)
+![Linux](https://img.shields.io/badge/linux-1e1e2e?style=for-the-badge&logo=linux&logoColor=f9e2af)
+![Kali](https://img.shields.io/badge/kali-1e1e2e?style=for-the-badge&logo=kalilinux&logoColor=cdd6f4)
+![MySQL](https://img.shields.io/badge/mysql-1e1e2e?style=for-the-badge&logo=mysql&logoColor=89b4fa)
+![Postman](https://img.shields.io/badge/postman-1e1e2e?style=for-the-badge&logo=postman&logoColor=fab387)
+![Git](https://img.shields.io/badge/git-1e1e2e?style=for-the-badge&logo=git&logoColor=fab387)
+![VSCode](https://img.shields.io/badge/vscode-1e1e2e?style=for-the-badge&logo=visualstudiocode&logoColor=89b4fa)
+![Burp Suite](https://img.shields.io/badge/burpsuite-1e1e2e?style=for-the-badge&logo=burpsuite&logoColor=f38ba8)
+
+---
+
+### 📊 github stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Comic+Relief&size=24&pause=1000&color=F7F7F7&vCenter=true&width=950&lines=student+%E2%80%A2+bug+bounty+hunter+%E2%80%A2+api+%26+web+security;just+here+to+break+things" alt="Animation" />
+<a href="https://github.com/rgjny">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rgjny&show_icons=true&hide_border=true&title_color=f38ba8&icon_color=f5c2e7&text_color=cdd6f4&bg_color=1e1e2e&include_all_commits=true&count_private=true" height="180">
+</a>
+<a href="https://github.com/rgjny">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rgjny&layout=compact&hide_border=true&title_color=f38ba8&text_color=cdd6f4&bg_color=1e1e2e&langs_count=8" height="180">
+</a>
 </p>
+---
 
 <p align="center">
-  <img width="1600" height="900" alt="banner" src="https://github.com/user-attachments/assets/c219ea3f-0293-461d-9ae3-ad6f9ea1e6a4" />
+  <img src="https://komarev.com/ghpvc/?username=rgjny&style=for-the-badge&color=f38ba8&labelColor=1e1e2e&label=profile+views">
 </p>
-
-</div>
-
----
-
-bug bounty hunter on HackerOne. i focus on api exploitation, broken access control, idor chaining, oauth misconfigs, and business logic flaws. i like taking small bugs and chaining them into something that actually matters.
-
-writing about it at **[rgjny.me](https://rgjny.me)**
-
----
-
-## latest writeup
-
-> **[Email-Based User Enumeration](https://rgjny.me/posts/email-based-user-enumeration)** — privacy bug in a private program. how a simple email field leaked user existence. [read →](https://rgjny.me/posts/email-based-user-enumeration)
-
----
-
-## tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,bash,linux,kali,postman,github,vscode,docker,mysql" />
-  <img src="https://images.softwaresuggest.com/software_logo/burpsuite-20231229161748.png" alt="burp" style="height:48px; width:48px;" />
-</p>
-
----
-
-## building
-
-- **recon pipeline** — subdomains → apis → params → attack surface
-- **osint-master** — emails, numbers, leaked creds (private for now)
-- **chain scripts** — multi-step exploit automation
-
-> open-source soon → [github.com/rgjny](https://github.com/rgjny)
-
----
-
-## get in touch
-
-<p align="center">
-  <a href="https://rgjny.me" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=ghost&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://x.com/rgjny_" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://t.me/rgjnyclient" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/itsrgjny/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  &nbsp;
-  <a href="mailto:rgjnymail@proton.me" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
-</p>
-
----
-
-## github stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rgjny&theme=algolia&hide_border=true" width="55%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rgjny&theme=algolia" width="38%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rgjny&theme=algolia" width="100%" />
-</p>
-
----
-
-<p align="center"><i>hack to learn. don't learn to hack.</i></p>
