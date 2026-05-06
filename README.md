@@ -5,7 +5,7 @@
 <tr>
 <td valign="top" width="280">
 
-<img src="assets/banner.gif" width="260">
+<img src="/banner.gif" width="260">
 
 </td>
 <td valign="top">
