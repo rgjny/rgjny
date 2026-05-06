@@ -17,7 +17,7 @@
 │  blog      https://rgjny.me                                                     │
 │  strength  Python + Go tooling, bash automation, recon & exploit dev            │
 │  stack     burp suite, metasploit, docker, linux, kali                          │
-│  workflow  clean commits, reproducible builds, fast turnaround                  │                                                  │
+│  workflow  clean commits, reproducible builds, fast turnaround                  │
 │                                                                                 │
 ╰─────────────────────────────────────────────────────────────────────────────────╯
 ```
