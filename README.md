@@ -8,16 +8,16 @@
   
 
 ```properties
-╭─ rgjny@github ──────────────────────────────────────────────────────────────╮
-│                                                                             │
-│  profile   security + infra | dev tools , ctf , open source                 │
-│  blog      https://rgjny.me                                                 │
-│  strength  Python + Go tooling, bash automation, recon & exploit dev        │
-│  stack     burp suite, metasploit, docker, linux, kali                      │
-│  workflow  clean commits, reproducible builds, fast turnaround              │
-│  theme     catppuccin mocha                                                 │
-│                                                                             │
-╰─────────────────────────────────────────────────────────────────────────────╯
+╭─ rgjny@github ─────────────────────────────────────────────────────────────╮
+│                                                                            │
+│  whoami    security researcher & bug bounty hunter                         │
+│  focus     api security • android pentesting • source code review          │
+│  blog      https://rgjny.me                                                │
+│  strength  mobile & api pentesting                                         │
+│  stack     burp suite, jadx, frida, docker, linux, kali                    │
+│  workflow  clean reports, reproducible pocs, fast turnaround               │
+│                                                                            │
+╰────────────────────────────────────────────────────────────────────────────╯
 ```
 </td>
 </tr>
@@ -57,7 +57,36 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rgjny&layout=compact&hide_border=true&title_color=f38ba8&text_color=cdd6f4&bg_color=1e1e2e&langs_count=8" height="180">
 </a>
 </p>
----
+
+<h2 align="center">📬 connect with me</h2>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://x.com/rgjny_">
+        <img src="https://img.shields.io/badge/X-1e1e2e?style=for-the-badge&logo=x&logoColor=white&color=1e1e2e">
+      </a><br>
+      <code>@rgjny_</code>
+    </td>
+    <td width="20"></td> <!-- Gap -->
+    <td align="center">
+      <a href="https://www.linkedin.com/in/itsrgjny/">
+        <img src="https://img.shields.io/badge/LinkedIn-89b4fa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1e2e">
+      </a><br>
+      <code>itsrgjny</code>
+    </td>
+    <td width="20"></td> <!-- Gap -->
+    <td align="center">
+      <a href="mailto:rgjnymail@proton.me">
+        <img src="https://img.shields.io/badge/Email-eba0ac?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=1e1e2e">
+      </a><br>
+      <code>rgjnymail@proton.me</code>
+    </td>
+  </tr>
+</table>
+</div>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rgjny&style=for-the-badge&color=f38ba8&labelColor=1e1e2e&label=profile+views">
