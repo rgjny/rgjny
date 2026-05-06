@@ -1,27 +1,24 @@
 <p align="center">
-
-
 <table>
 <tr>
 <td valign="top" width="200">
-
 <img src="/banner.gif" width="200">
-
 </td>
 <td valign="top">
+  
 
 ```properties
-╭─ rgjny@github ──────────────────────────────────────────────────────────────────╮
-│                                                                                 │
-│  profile   security + infra | dev tools , ctf , open source                     │
-│  blog      https://rgjny.me                                                     │
-│  strength  Python + Go tooling, bash automation, recon & exploit dev            │
-│  stack     burp suite, metasploit, docker, linux, kali                          │
-│  workflow  clean commits, reproducible builds, fast turnaround                  │
-│                                                                                 │
-╰─────────────────────────────────────────────────────────────────────────────────╯
+╭─ rgjny@github ──────────────────────────────────────────────────────────────╮
+│                                                                             │
+│  profile   security + infra | dev tools , ctf , open source                 │
+│  blog      https://rgjny.me                                                 │
+│  strength  Python + Go tooling, bash automation, recon & exploit dev        │
+│  stack     burp suite, metasploit, docker, linux, kali                      │
+│  workflow  clean commits, reproducible builds, fast turnaround              │
+│  theme     catppuccin mocha                                                 │
+│                                                                             │
+╰─────────────────────────────────────────────────────────────────────────────╯
 ```
-
 </td>
 </tr>
 </table>
