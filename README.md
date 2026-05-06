@@ -3,9 +3,9 @@
 
 <table>
 <tr>
-<td valign="top" width="280">
+<td valign="top" width="200">
 
-<img src="/banner.gif" width="260">
+<img src="/banner.gif" width="200">
 
 </td>
 <td valign="top">
